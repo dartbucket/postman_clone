@@ -15,7 +15,11 @@ Flutter Postman Clone is a mobile application developed using Flutter that allow
 
 ## Screenshots
 
-![Screenshots]()
+![Screenshot 1](https://raw.githubusercontent.com/dartbucket/postman_clone/master/sample/delete_response_screnshot.png)
+
+![Screenshot 2](https://github.com/dartbucket/postman_clone/blob/master/sample/get_response_screenshot.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/dartbucket/postman_clone/master/sample/screenshot_1.png)
 
 ## Installation
 
